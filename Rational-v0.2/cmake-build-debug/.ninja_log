@@ -1,0 +1,5 @@
+# ninja log v5
+11	127	1699308696545529863	CMakeFiles/Rational_v0_2.dir/gcd.cpp.o	669d74d5415e6c1b
+10	1335	1699911834864829086	CMakeFiles/Rational_v0_2.dir/main.cpp.o	6012b58b48838558
+10	1328	1699911834857022560	CMakeFiles/Rational_v0_2.dir/Rational.cpp.o	de0febf077c579b
+1335	1431	1699911834965959686	Rational_v0_2	4ff4a4f9d9b3c1b2

@@ -1,0 +1,4 @@
+# ninja log v5
+1011	1099	1701129685498819474	squareMatrix	d7bd3bd3c5b836c3
+14	1044	1701129212715215829	CMakeFiles/squareMatrix.dir/square_matrix.cpp.o	d3ce7669246ec984
+12	1011	1701129685406503829	CMakeFiles/squareMatrix.dir/main.cpp.o	aba42aaeafc56644

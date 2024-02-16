@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/mac/CLionProjects/Math173/sfmlTest/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
